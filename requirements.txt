@@ -1,0 +1,2 @@
+# No Python dependencies - uses ExifTool via subprocess
+# Requires: exiftool (brew install exiftool)
